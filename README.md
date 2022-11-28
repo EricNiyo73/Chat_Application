@@ -1,2 +1,2 @@
 # Chat_Application
-java projects
+this pprojects is simple you can use it for chatting with your friends.
